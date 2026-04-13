@@ -56,6 +56,7 @@ A curated list of the best stock market & options trading platforms, tools, and 
 - **[Quandl](https://www.quandl.com/)** - Financial, economic, and alternative datasets. (Affiliate program)
 - **[Polygon.io](https://polygon.io/)** - Real-time and historical market data APIs.
 - **[Tiingo](https://www.tiingo.com/)** - Affordable financial data and APIs.
+- **[Helium MCP](https://heliumtrades.com/mcp-page/)** - Live stock, ETF, and crypto data with AI bull/bear analysis, ML options pricing (including probability ITM), ranked trading strategies, and news bias scoring across 5,000+ sources. Ships as an MCP server for AI assistants ([GitHub](https://github.com/connerlambden/helium-mcp)); free tier: 50 queries, no signup.
 
 ---
 
