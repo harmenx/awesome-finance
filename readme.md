@@ -50,6 +50,7 @@ Stock market & options trading platforms, tools, and resources for investors and
 - [TrendSpider](https://trendspider.com/) - Automated technical analysis and automated trading alerts. (Affiliate program)
 - [Tickeron](https://tickeron.com/) - AI-based signals for stocks and options.
 - [Kavout](https://www.kavout.com/) - AI-driven stock ranking and analysis platform.
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading platform that seeks counter-evidence before forming a thesis.
 - [QuantConnect](https://www.quantconnect.com/) - Algorithmic trading platform with backtesting.
 
 ## 📚 Learning & Education
