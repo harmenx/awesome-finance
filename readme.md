@@ -27,6 +27,7 @@ Stock market & options trading platforms, tools, and resources for investors and
 - [Zacks](https://www.zacks.com/) - Stock research, analyst rankings, and investment insights.
 - [Seeking Alpha](https://seekingalpha.com/) - Crowd-sourced analyst insights and stock ideas. (Affiliate available)
 - [Morningstar](https://www.morningstar.com/) - In-depth research on stocks, funds, and portfolios.
+- [StockTipsArena](https://stocktipsarena.com/) - Free Indian equity (NSE) stock screener, multi-analyst price target consensus, and SEBI-verified analyst accuracy tracker.
 
 ## 🧮 Options Trading Tools
 
